@@ -17,6 +17,7 @@ namespace Sentry.Protocol.Envelopes
         private const string TypeKey = "type";
         private const string TypeValueEvent = "event";
         private const string TypeValueUserReport = "user_report";
+        private const string TypeValueTransaction = "transaction";
         private const string LengthKey = "length";
         private const string FileNameKey = "file_name";
 
@@ -159,6 +160,19 @@ namespace Sentry.Protocol.Envelopes
             };
 
             return new EnvelopeItem(header, new JsonSerializable(sentryUserFeedback));
+        }
+
+        /// <summary>
+        /// Creates an envelope item from transaction.
+        /// </summary>
+        public static EnvelopeItem FromTransaction(Transaction transaction)
+        {
+            var header = new Dictionary<string, object>
+            {
+                [TypeKey] = TypeValueTransaction
+            };
+
+            return new EnvelopeItem(header, new JsonSerializable(transaction));
         }
 
         private static async ValueTask<IReadOnlyDictionary<string, object>> DeserializeHeaderAsync(

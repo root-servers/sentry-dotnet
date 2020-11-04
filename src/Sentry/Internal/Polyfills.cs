@@ -3,6 +3,8 @@
 // Polyfills to bridge the missing APIs in older versions of the framework/standard.
 // In some cases, these just proxy calls to existing methods but also provide a signature that matches .netstd2.1
 
+using System.Diagnostics.CodeAnalysis;
+
 #if NET461 || NETSTANDARD2_0
 namespace System.IO
 {
@@ -35,6 +37,7 @@ namespace System.Collections.Generic
             value = pair.Value;
         }
 
+        [return: MaybeNull]
         public static TValue GetValueOrDefault<TKey, TValue>(
             this IReadOnlyDictionary<TKey, TValue> dic,
             TKey key,
