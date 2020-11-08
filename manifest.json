@@ -1,0 +1,1645 @@
+{
+  "sitemap": {
+    "baseUrl": "https://getsentry.github.io/sentry-dotnet/"
+  },
+  "homepages": [],
+  "source_base_path": "/github/workspace/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html",
+          "hash": "DYaBrfk7NHx22SWpXUx+bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.AspNetCore.Hosting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.AspNetCore.Hosting.html",
+          "hash": "3bWpltuFhnNYMqCketh9gQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.Logging.LoggingBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.Logging.LoggingBuilderExtensions.html",
+          "hash": "cfhEgvNMJjyM66Iub5Pk4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.html",
+          "hash": "axcJGT7IY4E9OI6QcVv2Zg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.Logging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.Logging.html",
+          "hash": "2OtybTkbwi4s6lkWE/GKRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NLog.ConfigurationExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NLog.ConfigurationExtensions.html",
+          "hash": "jiEnf97mA+mWUTcCghDhlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NLog.html",
+          "hash": "7f20IQAm+M01VvYR6c75iw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNet.SentryAspNetOptionsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNet.SentryAspNetOptionsExtensions.html",
+          "hash": "UJbEFs2jcWtadZ+PNJWn7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNet.html",
+          "hash": "T5FjGlP49w+xCy1w5jQp9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.html",
+          "hash": "bOsODbqsnXhFL93FqIf3Yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.Grpc.IProtobufRequest-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.Grpc.IProtobufRequest-1.html",
+          "hash": "qBsEaJRZbFprcDMTVpyK/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.html",
+          "hash": "2Ni4ktIzD9XAbZspo7QXcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.html",
+          "hash": "ekiraZYudb83tY5Xys4+qg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.Grpc.ScopeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.Grpc.ScopeExtensions.html",
+          "hash": "r+OoTo461vmNOcjVqE8RwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.Grpc.SentryBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.Grpc.SentryBuilderExtensions.html",
+          "hash": "vnHZIfEqqSnAZxZOSAKmYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html",
+          "hash": "nFrogpyesFnHKUWRvOE5VA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.Grpc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.Grpc.html",
+          "hash": "G58rq1RBhbdNE444msmRgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.ISentryBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.ISentryBuilder.html",
+          "hash": "YIyMFUrLHd4R/7WZMQ6cAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.IUserFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.IUserFactory.html",
+          "hash": "CuHSnGfpumLw4bGL5TxRtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.ScopeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.ScopeExtensions.html",
+          "hash": "kD+IZtZUikft1IaDG3pDOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.SentryAspNetCoreOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.SentryAspNetCoreOptions.html",
+          "hash": "a9H4U7P1ulaioPz/oUEzmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.SentryBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.SentryBuilderExtensions.html",
+          "hash": "+OqR9TSyzV7hAzPtdnPKcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.AspNetCore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.AspNetCore.html",
+          "hash": "nXXL5OHp7IPk9nGbK1KIoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.BaseScopeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.BaseScopeExtensions.html",
+          "hash": "hDFVd6QhmN/fNA+JVrcEJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.DeduplicateMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.DeduplicateMode.html",
+          "hash": "yUEc90Xs/nMDCCnlRcfXew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.DsnAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.DsnAttribute.html",
+          "hash": "GBhlh00926lP3RaamGlWjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.BaseRequestPayloadExtractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.BaseRequestPayloadExtractor.html",
+          "hash": "8alXrGcM3M6bTaGjAMn33w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.DefaultRequestPayloadExtractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.DefaultRequestPayloadExtractor.html",
+          "hash": "jeKR6KnIHsMQ/l1estHpDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.DisabledHub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.DisabledHub.html",
+          "hash": "BM/1sMWCySxYR4NBfDDy3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.FormRequestPayloadExtractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.FormRequestPayloadExtractor.html",
+          "hash": "uuTJirW9xPFGwLAuomEaqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.HubAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.HubAdapter.html",
+          "hash": "VX45KSUYzWPuwOFpS/LB0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.IDiagnosticLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.IDiagnosticLogger.html",
+          "hash": "3H5cSlMprKdGcEhcx7S5qQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.IExceptionFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.IExceptionFilter.html",
+          "hash": "/PYAUacsWtoEhhEIDkMVVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.IHttpRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.IHttpRequest.html",
+          "hash": "+gOuZ+WoiHZirulUxnaLKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.IRequestPayloadExtractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.IRequestPayloadExtractor.html",
+          "hash": "Qg6iK5jy3pd/zfn42a8IPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.ISentryEventExceptionProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.ISentryEventExceptionProcessor.html",
+          "hash": "d32YM+37z+bovNkt2oDXEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.ISentryEventProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.ISentryEventProcessor.html",
+          "hash": "1HVGhrdUlW+XIo5N+BKVoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.ISentryStackTraceFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.ISentryStackTraceFactory.html",
+          "hash": "SARSk3F2DkuzzJE5FzwfCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.RequestBodyExtractionDispatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.RequestBodyExtractionDispatcher.html",
+          "hash": "VorfBanXgCaEJOs4v4aE6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.RequestSize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.RequestSize.html",
+          "hash": "qzGw0AWLWw2uK6YRNDY/fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.SentryEventExceptionProcessor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.SentryEventExceptionProcessor-1.html",
+          "hash": "xMgVK2MN0rC1spWLMKD++w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.SentryStackTraceFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.SentryStackTraceFactory.html",
+          "hash": "Nya/nQoKox/Y4AXBYW8jeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensibility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensibility.html",
+          "hash": "YgT1LzHA/IBZgc6dcm7s5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensions.Logging.DelegateLogEntryFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensions.Logging.DelegateLogEntryFilter.html",
+          "hash": "TMCiusmivBna2q8fHosL7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.html",
+          "hash": "sbPcs3EUgPfOYcntF4X78g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensions.Logging.Extensions.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensions.Logging.Extensions.DependencyInjection.html",
+          "hash": "taXbDAAE74s/jQrv6gjjxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensions.Logging.ILogEntryFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensions.Logging.ILogEntryFilter.html",
+          "hash": "dHRBjpOv0sz2346jUKQOjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensions.Logging.MelDiagnosticLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensions.Logging.MelDiagnosticLogger.html",
+          "hash": "Sp9sMG8cHF/K3sMfx9CW/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensions.Logging.SentryLoggerProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensions.Logging.SentryLoggerProvider.html",
+          "hash": "bqFTliZZoQxvc8CkIYnB4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensions.Logging.SentryLoggingOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensions.Logging.SentryLoggingOptions.html",
+          "hash": "xqGMjl9KBLpwTrLtgeIw8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.html",
+          "hash": "OSppKb/d68l4IH2zmHiKOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Extensions.Logging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Extensions.Logging.html",
+          "hash": "Vnmca2igTakWZYsOgDN1+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Http.ISentryHttpClientFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Http.ISentryHttpClientFactory.html",
+          "hash": "FQNq92REokGhd9DEANZLNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Http.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Http.html",
+          "hash": "Y8zQwQLDsyyyMHXjo8wWKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.HubExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.HubExtensions.html",
+          "hash": "SiLrXJ9thPytEGft1JmFww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.IHub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.IHub.html",
+          "hash": "4xSg5weyOlqZhZHA9r2myw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.ISentryClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.ISentryClient.html",
+          "hash": "FL3ZwidnmWuy0h/WRc0qRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.ISentryScopeManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.ISentryScopeManager.html",
+          "hash": "cs/gxUaOj/ooGxjF4dFe0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Infrastructure.ConsoleDiagnosticLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Infrastructure.ConsoleDiagnosticLogger.html",
+          "hash": "+33pO2jghVjCUctBzyJcSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Infrastructure.DebugDiagnosticLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Infrastructure.DebugDiagnosticLogger.html",
+          "hash": "s+5MgKgfYFIJUO4PD6cstQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Infrastructure.ISystemClock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Infrastructure.ISystemClock.html",
+          "hash": "SZpv58W0Yrv8mMxRuNUxug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Infrastructure.SystemClock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Infrastructure.SystemClock.html",
+          "hash": "U+nhqKU2NCfN/uRaRRbyGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Infrastructure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Infrastructure.html",
+          "hash": "9WpIIVK9H/fB70Kj0A9emg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Integrations.ISdkIntegration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Integrations.ISdkIntegration.html",
+          "hash": "9hTlSznH7TozrFiWc+ff7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Integrations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Integrations.html",
+          "hash": "xCeZB9ZctEi/2r12Y4giZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Log4Net.SentryAppender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Log4Net.SentryAppender.html",
+          "hash": "yzH+v35qkjB6uOAGeaMbyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Log4Net.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Log4Net.html",
+          "hash": "gN5MHBbP40vX2f1NtKnvaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.NLog.SentryNLogOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.NLog.SentryNLogOptions.html",
+          "hash": "87bGQBheIfEHJhGVSMtqfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.NLog.SentryNLogUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.NLog.SentryNLogUser.html",
+          "hash": "gEEww7MtxzXetjWHEaosjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.NLog.SentryTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.NLog.SentryTarget.html",
+          "hash": "EWuV28j8KcrbzSCGohUMCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.NLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.NLog.html",
+          "hash": "jbp4m+Cmv+u7JK8ahOdoNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.PlatformAbstractions.FrameworkInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.PlatformAbstractions.FrameworkInfo.html",
+          "hash": "XUA4Na/juw/EaCHljocoPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.PlatformAbstractions.FrameworkInstallation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.PlatformAbstractions.FrameworkInstallation.html",
+          "hash": "LgB9RdkWZ0PbfmOh9l9y5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.PlatformAbstractions.FrameworkProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.PlatformAbstractions.FrameworkProfile.html",
+          "hash": "l5cNYR3PEgXd/er5OwFcFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.PlatformAbstractions.Runtime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.PlatformAbstractions.Runtime.html",
+          "hash": "DAX/d/YSN4xbS/+mfrnJ3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.PlatformAbstractions.RuntimeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.PlatformAbstractions.RuntimeExtensions.html",
+          "hash": "Yjn2OIRT7umkE/3pqDxzJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.PlatformAbstractions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.PlatformAbstractions.html",
+          "hash": "u63SYOsVB4pyfncm1eU5Sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.App.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.App.html",
+          "hash": "BDUjq1sbW5XiWJEfwjjXeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.BaseScope.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.BaseScope.html",
+          "hash": "6fKT10HOgQeL8F5jDd0JoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Breadcrumb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Breadcrumb.html",
+          "hash": "Zx8cqqNVinQSjTABfdZtEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.BreadcrumbLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.BreadcrumbLevel.html",
+          "hash": "P/MqKNfc7YZJS+J2jO+vUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Browser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Browser.html",
+          "hash": "ctrOdWsNPzb3dlFCl/4mZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Constants.html",
+          "hash": "jIeHQ3ip/KFkCLJse2YThw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Contexts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Contexts.html",
+          "hash": "sUWq0zXeCeTrl4W2VrE9LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Device.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Device.html",
+          "hash": "0c2jlqSRR12suUpHC8bGfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.DeviceOrientation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.DeviceOrientation.html",
+          "hash": "skZArZru5gQpqxIaWHYhog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Gpu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Gpu.html",
+          "hash": "RdvwYK/Ye0mWthgGeVShvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.IScopeOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.IScopeOptions.html",
+          "hash": "B6V0hh6BAew/nEIc+feQig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Mechanism.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Mechanism.html",
+          "hash": "XGlyk+Uf1//Ql4+KqA29/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.OperatingSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.OperatingSystem.html",
+          "hash": "cTsOjSzAQtKXA9/ZT2WdsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Package.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Package.html",
+          "hash": "gQoOmfgwfXp63zeZO1Jt1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Request.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Request.html",
+          "hash": "GeFs//Tn7rDyCT/CpG8KPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.Runtime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.Runtime.html",
+          "hash": "lNt0RFNDiRu4OBLKFNWGvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.SdkVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.SdkVersion.html",
+          "hash": "Jy8avWGjE7j0ljzI8zZ+CQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.SentryException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.SentryException.html",
+          "hash": "NiqxKfqDoHf9la/DJbC31A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.SentryId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.SentryId.html",
+          "hash": "MnezYsbY6NSQQKzPR+JLMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.SentryMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.SentryMessage.html",
+          "hash": "dy7dDZII6i+uvbRfB/mlPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.SentryStackFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.SentryStackFrame.html",
+          "hash": "if7V5Cq1+heCTVpK101JiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.SentryStackTrace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.SentryStackTrace.html",
+          "hash": "Zrz72VAIoQ7XWt0EEEkm4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.SentryThread.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.SentryThread.html",
+          "hash": "Mz1kYsHOy5tZEKKAZuf1HA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.SentryValues-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.SentryValues-1.html",
+          "hash": "mbGEIZLXsqPFXzBj+KE7vQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.User.html",
+          "hash": "tZCmefc0CMmcHUqiYRKAQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Protocol.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Protocol.html",
+          "hash": "nSu6BStjuxN9LJRyHhsgig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Reflection.AssemblyExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Reflection.AssemblyExtensions.html",
+          "hash": "UP7BM5dcZoOhahJx4BsDxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Reflection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Reflection.html",
+          "hash": "azFKIPI8n5FQU3HJWF5pWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Scope.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Scope.html",
+          "hash": "dYJ6s+koyB7xHh1YdxUTUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.ScopeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.ScopeExtensions.html",
+          "hash": "npt2gZoEHhUIFjbSwMI1ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.SentryClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.SentryClient.html",
+          "hash": "t8kjBnnC75p31+go53O9jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.SentryClientExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.SentryClientExtensions.html",
+          "hash": "9qZ/XVVgYktCgerRDwYlFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.SentryEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.SentryEvent.html",
+          "hash": "jaCMMgtSdgfY53JhXKGMlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.SentryLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.SentryLevel.html",
+          "hash": "OX9We7AyG8B5cH0rGOf0RQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.SentryOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.SentryOptions.html",
+          "hash": "1CZc16doGaWC9gPiUm/9Hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.SentryOptionsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.SentryOptionsExtensions.html",
+          "hash": "Now519HOP58h2P9RcWGtDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.SentrySdk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.SentrySdk.html",
+          "hash": "Lc/QYs57RGUeXrMrRYBI8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Serilog.SentrySerilogOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Serilog.SentrySerilogOptions.html",
+          "hash": "nAKdcv+IWtZZ8ypyUchwzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.Serilog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.Serilog.html",
+          "hash": "nELqcm2tefyvNzca5vRz5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.UserFeedback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.UserFeedback.html",
+          "hash": "TB9l8imaGcS530s06RRn+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Sentry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Sentry.html",
+          "hash": "vdXCYXg5aIwND1efA1+uhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Serilog.SentrySinkExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Serilog.SentrySinkExtensions.html",
+          "hash": "T6lq8rc4mdVQTPXpXpO3rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Serilog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Serilog.html",
+          "hash": "/WtFTS89LvgkH2WNE2MJNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "wzslYelcmOg+ELcuNqd+tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "y8eqndhlazqWbud3EIvD+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/sentry.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/sentry.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "m9TFp3Ur6PspdOVX8p2g2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/getting-started.html",
+          "hash": "a4UnNmmSr1XhbO+ymdjxjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/log4net.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/log4net.html",
+          "hash": "rJ5/jjdcQEuYpc8J1fYzBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/manual.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/manual.html",
+          "hash": "8SNXkjaekHBVn44zWNeOlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/testing.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/testing.html",
+          "hash": "Z0Qt8lvISVvAp9/HmmFm9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "aRBrgi5tGvIgn6w5QB81GA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "2rZyXc+3lTfsbJpeSfUotA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 120,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
